@@ -73,11 +73,45 @@
   - Technical analysis：Charts that show prices；Price action is how prices move
   - Fundamental analysis：Economic information；Ignore charts
 
+- ABC Pullback in Bull Trend: 2 Legs Sideways to Down（Slide 11, 11:47，source-explicit，课件原文）：
+  - In bull trend, look for High 2 (H2) pullback
+  - Buy on stop above high of signal bar
+  - 中文字幕：如果突破的幅度更大，我会重新开始计数
+  - 图表中标注了两组 H1/H2 序列，红色圆圈标出其中一根 signal bar
+
+- Inside and Outside Bars — Inside bar 部分（Slide 16, 19:12，source-explicit，课件原文）：
+  - High of bar at, or below, H of prior bar
+  - Low of bar at, or above, L of prior bar
+  - 图表用多个红色箭头标出多根 "Inside bars"
+  - （Outside bar 的定义未在本张截图中显示，后续若有补充需再记录）
+
+- Market Terminology（Slide 号/时间戳未显示，source-explicit，课件原文）：
+  - Tick：smallest move on stock or futures chart
+  - Pip：smallest move on a Forex chart
+  - Point：group of ticks or pips
+  - Lot：size of a trade
+  - Handle：round number of price
+
+- Always In Direction（Slide 号/时间戳未显示，source-explicit，课件原文）：
+  - Direction of current trend
+  - If had to be Always In market: Always In position is either long or short
+  - 图示：一段上涨K线序列，标注 "Always In Long"（绿色区域）
+
+- Example: Always In Short, Then Long — HLMTR（Slide 28, 31:46，source-explicit，课件原文+中文字幕）：
+  - Context is bear trend, but evolving into Wedge Bottom, and Head and Shoulders Bottom (HSB)
+  - Series of 3 big bear bodies, tail on bottom → Breakout and follow-through → Always In Short（粉色区域）
+  - Bull breakout of bear channel
+  - Setup is HL MTR and HSB
+  - 中文字幕：这个反转模式叫做：低点抬高的大反转（缩写：HLMTR）
+  - HLMTR = Higher Low Major Trend Reversal（缩写本身及中文含义为 source-explicit，来自本张课件字幕；"Higher Low"/"Major Trend Reversal" 全称分别引用自 Slide 3 已确认的 HL、MTR 缩写表）
+
 ## 我的即时理解
 
 - 一个 market 在任何时间，都处于一个 trend（趋势）中，或者处于一个 trading range（震荡区间）中。（03:34 附近课件标题确认为 source-explicit："Every Market: Always in Either Trend or Trading Range"）
 - 上涨趋势常常从一个 breakout 开始，伴随一个 big bull bar。（03:05 附近课件确认为 source-explicit："Bull trend begins with breakout"）
 - （student-interpretation，关于 Slide 9 Two Types of Candles 的延伸理解）：如果一根K线实体很大，我们叫它 trend bar（趋势K线），在趋势中更常见；如果引线（tail）更长、实体小，是 trading range bar，也叫 doji（十字星）。对于 trend bar，如果是小时间级别，可能看到的是一个强势的上涨或下跌趋势；而 doji，在更小时间级别可能只是代表一个震荡区间。（这是我自己的推广理解，课件原文未直接提到"时间级别"这一点，needs-review）
+- ABC pullback 从 H2 开始买入（Slide 11, 11:47 课件确认为 source-explicit："In bull trend, look for High 2 (H2) pullback"；"Buy on stop above high of signal bar"）。你把 H2 理解为"第二个真正的突破点"，这部分是你自己的理解（student-interpretation），课件没有直接用这个说法，needs-review。
+- （student-interpretation）你把 "Always In Direction" 理解为"单边趋势"的定义。课件原文没有出现"单边趋势"这个词，这是你自己的对应说法，needs-review。
 
 ## Brooks 指向的K线/区域
 
@@ -85,6 +119,9 @@
 
 - 时间戳：03:05｜说明：蓝色箭头指向 breakout 大阳线之后的第一根回调K线（pullback bar），标注为 "Pullback, so start of trend channel"
 - 时间戳：03:34｜说明：画面用绿色箱体+红色通道线标出 trend channel，蓝色文字标注 "Channel evolves into Trading Range"，指向通道末端逐渐走平进入震荡区间的位置
+- 时间戳：11:47｜说明：图表用绿色文字标注两组 H1、H2，红色圆圈标出其中一个 signal bar，对应 "Buy on stop above high of signal bar"
+- 时间戳：19:12｜说明：图表用多个红色箭头指向不同位置的多根 K线，均标注为 "Inside bars"
+- 时间戳：31:46｜说明：图表用红色箭头标出连续3根大阴线，绿色通道线+箭头标出 bull breakout of bear channel 位置，品红色圆弧标出右侧两个抬高的低点，对应 "Setup is HL MTR and HSB"
 
 ## 截图文件名
 
@@ -93,6 +130,9 @@
 - V01_00-03-05_trend-channel_pointer.png（03:05，breakout + pullback + trend channel 示意图，HH/HL 标注）
 - V01_00-03-34_channel-to-trading-range_pointer.png（03:34，Slide 4，channel evolves into trading range 示意图）
 - V01_00-06-58_breakout_pointer.png（06:58，Slide 7，bear breakout 失败后 bull breakout 成功示意图）
+- V01_00-11-47_abc-pullback-h2_pointer.png（11:47，Slide 11，ABC pullback / H1-H2 标注示意图）
+- V01_00-19-12_inside-bar_pointer.png（19:12，Slide 16，inside bar 定义+多个标注示例）
+- V01_00-31-46_hlmtr-setup_pointer.png（31:46，Slide 28，Always In Short→Long 反转示例，HLMTR/HSB setup 标注）
 
 ## 疑问
 
