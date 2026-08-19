@@ -35,6 +35,46 @@
 - Volume 比喻（Slide 号/时间戳未显示，source-explicit，来自我的转述而非课件截图，具体英文原句和时间戳待补充，needs-review）：
   - Al Brooks 讲到：volume 是新手梦中保护他们免受痛苦损失的虚假神灵
 
+- News Not Important: Reaction to News Is All That Matters（Slide 号/时间戳未显示，source-explicit，课件原文）：
+  - Before an important announcement, TV experts predict market's reaction to news
+  - They are right only 50% of time
+  - Institutions know all possible news outcomes
+  - They make price neutral, before the announcement
+  - They adjust the price, to accommodate any outcome
+  - Price already reflects the news, before the news is announced
+  - If TV experts knew how to trade, they would not be on TV
+  - They would be trading!
+  - 图示：右侧一段以上涨为主的K线走势图，图上未见具体指向或时间戳标注
+
+- Market Can: Rally on Bad News or Sell Off on Good News（Slide 号/时间戳未显示，source-explicit，课件原文）：
+  - Stock missed on Top Line (revenue) and on Bottom Line (profit) estimates, but still rallied
+  - Report therefore, cannot be bearish if market's reaction was bullish
+  - Stock can also sell off, if it beats on Top and Bottom Lines
+  - News is useless
+  - Price is truth
+  - If there is bad news, but good price action, they buy
+  - 图示：右侧一段先小幅下跌后转为持续上涨的K线走势图，图上未见具体指向或时间戳标注
+
+- Risk On and Risk Off（Slide 号/时间戳未显示，source-explicit，课件原文）：
+  - When the stock market falls sharply, traders want to reduce risk ("Risk Off"), by trading less volatile stocks
+  - They might trade consumer staples (like PG and KO), instead of highly volatile stocks, like technology stocks
+  - When the stock market rallies sharply, traders are willing to take more risk, to get more reward ("Risk On")
+  - 图示：图表左侧用粉色区域标出一段下跌走势（对应 Risk Off），右侧用绿色区域标出随后的上涨走势（对应 Risk On），图上未见具体时间戳标注
+
+- FOMO Trading: Fear Of Missing Out（Slide 号/时间戳未显示，source-explicit，课件原文）：
+  - They are afraid to miss a brief, high probability chance to make money
+  - Institutions are judged on performance, compared to other firms
+  - Cannot risk missing a big rally
+  - They buy because of FOMO (Fear Of Missing Out)
+  - 图示：图表左侧一段下跌走势，右侧用绿色区域标出随后的上涨走势（对应 FOMO 买入的上涨段），图上未见具体时间戳标注
+
+- Value Traders: Buy When Cheap（Slide 号/时间戳未显示，source-explicit，课件原文）：
+  - Value firms only want to buy when the market is extremely cheap
+  - No one ever knows what the correct price is
+  - Value investors have a good sense of when a stock is cheap
+  - Strong bullish momentum / Reason not important / Traders will buy simply because price is rising
+  - 图示：图表左侧一段下跌走势后触底反弹，蓝色区域标出反弹初段的一段上涨K线（对应 Strong bullish momentum 文字说明），图上未见具体时间戳标注
+
 ## 我的即时理解
 
 - （student-interpretation，needs-review，对应 Slide 4 04:43 Volume Divergence 图表）：这是一个量价背离的楔形底——价格放量突破（跌破）之后，一般还会有 2-3 次探更低的低点，价格更低但成交量却变少，代表越来越少的人愿意在这些低价卖出；市场可能要涨到更高价格，才有人愿意再卖出。Markets 一直在寻找更多的成交量（more trades）。但这种完美的楔形底可能一周只有 1-2 次，很难遇到（这一点与 Slide 4 原文 "only happen a few times a week" 一致，为我自己的转述）。
