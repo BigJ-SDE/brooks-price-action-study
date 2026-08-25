@@ -89,6 +89,23 @@
   - 图表展示一段上涨走势末端的 ii pattern，其中一根 bar 被绿色矩形标出（对应入场位置），旁边一条蓝色水平线标示其高点/入场价；紧邻另一根 bar 被淡紫色矩形标出，内含一个蓝色小圆圈标示其收盘价位置；再往右一根阴线被红色箭头指出，随后价格持续下跌
   - 图表底部灰色字幕框（中文）：多头无法打平离场，没有及时在那根K线上方
 
+- ioi: Can Be Bull Flag（Slide 23, 29:37，source-explicit，课件原文截图）：
+  - ioi in trend can be flag
+  - Want good signal bar
+  - Good if PB to MA (not entirely beyond MA)
+  - Usually High 2 Bull Flag, or Low 2 Bear Flag
+  - BOM, but trend, so high probability flag
+  - 图表展示一段上涨走势，中段一个被绿色矩形标出的 ioi 形态（回调到一条移动平均线附近），随后价格继续上涨，最高点出现一根被蓝色小圆圈标出的长阳线
+  - 图表底部字幕（中文）：突破模式，向上突破的概率更高
+
+- ioi Bull Flag: Higher Probability If Bull Inside Bar（Slide 24, 30:41，source-explicit，课件原文截图）：
+  - Bull trend
+  - PB to Moving Average
+  - ib with a close on its high
+  - Good buy signal bar
+  - 图表展示一段上涨走势中先后出现三处被彩色矩形标出的 ioi 形态示例：橙色矩形标出第一处、品红色矩形标出第二处、蓝色矩形标出第三处，均回调至图中移动平均线附近，随后价格继续上涨；图表最右侧上涨到顶部后转为下跌
+  - 图表底部字幕（中文，共 2 行）：并且第三根K线是漂亮的阳线收在高位， / 这是一个非常好的做多机会
+
 ## 我的即时理解
 
 - （student-interpretation，needs-review，对应 Slide 2 01:05 Small TTR: Needs Good Context for Breakout (BO)）：如果 10-20 根 bar 都在一个 tight trading range 里面，要 patient（耐心）地等待突破，即使是 scalping（短线快进快出）也赚不到多少钱（这与课件原文 "After 10 – 20 bars, especially when extremely tight, better to wait for breakout" 以及底部字幕"最好还是等到有明确的突破再去做"基本对应；但"即使是 scalping 也赚不到多少钱"这一点课件本身并未直接写出，是我自己的延伸理解，needs-review）。
@@ -113,6 +130,12 @@
 
 - （student-interpretation，needs-review，对应 Slide 22 27:33 Trapped Bulls: If Give up, Can Get Bear Trend）：这个图里面 ii pattern 后面的这根阴线，是多头失望想要离场，造成了右边这个上引线；这根上引线比前一个 bar 的开盘价高，是 sell limit order（多头想要打平离场挂的限价卖单），然后进入 trading range，这时候对多头并不利；小亏离场造成了 outside bar（课件原文 "Bulls tried to get out breakeven, but did not get above entry price, so limit orders not filled" "Now trapped into bad buy, so quickly exited with loss, creating outside down bar (outside, outside)" 基本对应；但注意：课件并未具体写出"上引线比前一个 bar 的开盘价高"这个比较，也未提到"进入 trading range 对多头不利"，这些细节是我自己对图表的解读，needs-review）。
 
+- （student-interpretation，needs-review，对应 Slide 23 29:37 ioi: Can Be Bull Flag）：图中这个 ioi 形态之前是一段持续上涨的趋势，回调到移动平均线附近对应 "Good if PB to MA"；因为之前一直是单边上涨的趋势，所以可以把止损放在这个 ioi 形态的最低点（课件原文只写了 "ioi in trend can be flag" "Good if PB to MA (not entirely beyond MA)"，并未直接提到"止损放在最低位"，这是我自己根据 ioi 形态与止损位置关系做出的延伸理解，needs-review）。
+
+- （student-interpretation，needs-review，对应 Slide 23 29:37 ioi: Can Be Bull Flag 中的 "Want good signal bar"）：如果 ioi pattern 里面的第三根 bar 是一根 bull bar，并且 close on its high（收盘在最高点附近），说明这是一个好的 signal bar，很大概率会上涨（课件原文只写了 "Want good signal bar"，并未具体说明"第三根 bar 是 bull bar 且 close on high"这个判断标准，这是我自己的延伸理解，needs-review）。
+
+- （ai-organized，对应 Slide 24 30:41 ioi Bull Flag: Higher Probability If Bull Inside Bar）：本页课件原文 "ib with a close on its high" "Good buy signal bar"，与上面 Slide 23 29:37 处标注为 student-interpretation 的"第三根 bar 是 bull bar 且 close on high"说法一致，此处已由课件原文（source-explicit）明确确认，图中三处橙色/品红色/蓝色矩形标出的 ioi 即为该说法的例子。
+
 ## Brooks 指向的K线/区域
 
 <!-- 记录 Brooks 用鼠标或画笔指向图表某处时的说明，粗略时间戳即可 -->
@@ -127,6 +150,8 @@
 - 时间戳：23:06｜说明：图表左侧用粉红色矩形圈出一段小型震荡区间（TR），下方蓝色水平线标出其低点；回调到个大阴线之后，一个蓝色三角形标出 "ii bottom"，其内部第二根 bar 旁边有一个绿色小方块标出，下方绿色箭头指向它；价格持续上涨到图表右上方顶部附近，另一个蓝色三角形标出 "ii top"，其内部第二根 bar（阴线）被红色小方块标出，旁边红色文字标注 "ii top / HH MTR"，随后价格转为下跌
 - 时间戳：24:19｜说明：图表中一根被绿色矩形标出的大阳线（旁边绿色箭头指向它）之后，紧接两根被粉红色矩形标出的小阴线（bear body 的 ii）；底部灰色字幕框（中文，共 2 行）注明"可能是第二段陷阱（注：如果更大的背景是震荡区间，第二段趋势看上去再强，也有可能是陷阱）"
 - 时间戳：27:33｜说明：图表中上涨末端一根 bar 被绿色矩形标出（对应入场位置），旁边一条蓝色水平线标示其高点；紧邻另一根 bar 被淡紫色矩形标出，内含一个蓝色小圆圈标示其收盘价位置；再往右一根阴线被红色箭头指出；底部灰色字幕框（中文）注明"多头无法打平离场，没有及时在那根K线上方"
+- 时间戳：29:37｜说明：图表中段一段震荡回调被绿色矩形标出（对应 ioi 形态），下方有一条移动平均线穿过该区域；随后价格继续上涨，顶部一根长阳线的最高点被蓝色小圆圈标出；底部字幕（中文）注明"突破模式，向上突破的概率更高"
+- 时间戳：30:41｜说明：图表中段上涨走势中，三处被彩色矩形标出的 ioi 形态依次为：橙色矩形（第一处）、品红色矩形（第二处）、蓝色矩形（第三处），均回调至图中灰色移动平均线附近；图表最右侧价格上涨到顶部后转为下跌；底部字幕（中文，共 2 行）注明"并且第三根K线是漂亮的阳线收在高位，这是一个非常好的做多机会"
 
 ## 截图文件名
 
@@ -142,6 +167,8 @@
 - [V08C_00-23-06_ttr-higher-probability-if-final-bar-is-in-correct-direction_needs-review.png](../screenshots/V08C_00-23-06_ttr-higher-probability-if-final-bar-is-in-correct-direction_needs-review.png)（23:06，Slide 18，TTR: Higher Probability If Final Bar Is in Correct Direction，展示 ii bottom 与 ii top 两个 signal bar 示例，分别对应上涨建仓与反转下跌）
 - [V08C_00-24-19_ii-can-be-disappointment-in-buy-the-close-bull-trend_needs-review.png](../screenshots/V08C_00-24-19_ii-can-be-disappointment-in-buy-the-close-bull-trend_needs-review.png)（24:19，Slide 19，ii: Can Be Disappointment in Buy The Close Bull Trend，展示大阳线之后出现 bear-body ii、导致 Buy The Close 多头失望的示例）
 - [V08C_00-27-33_trapped-bulls-if-give-up-can-get-bear-trend_needs-review.png](../screenshots/V08C_00-27-33_trapped-bulls-if-give-up-can-get-bear-trend_needs-review.png)（27:33，Slide 22，Trapped Bulls: If Give up, Can Get Bear Trend，展示多头打平离场限价单未成交、被迫小亏离场造成 outside down bar 的示例）
+- [V08C_00-29-37_ioi-can-be-bull-flag_needs-review.png](../screenshots/V08C_00-29-37_ioi-can-be-bull-flag_needs-review.png)（29:37，Slide 23，ioi: Can Be Bull Flag，展示上涨趋势中 ioi 回调至均线附近、构成 high 2 bull flag 的示例）
+- [V08C_00-30-41_ioi-bull-flag-higher-probability-if-bull-inside-bar_needs-review.png](../screenshots/V08C_00-30-41_ioi-bull-flag-higher-probability-if-bull-inside-bar_needs-review.png)（30:41，Slide 24，ioi Bull Flag: Higher Probability If Bull Inside Bar，展示上涨趋势中三处 ioi 回调至均线附近、且第三根为漂亮阳线收在高位的示例）
 
 ## 疑问
 
