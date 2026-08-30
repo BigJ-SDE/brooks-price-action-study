@@ -8,6 +8,7 @@
 ## 待处理
 
 - [ ] 在 TradingView 或其他软件上写一个指标/脚本，自动标注 H1/H2/H3、L1/L2/L3（来源：Video 09A - Pullbacks and Bar Counting，学习该课程时想到）；如果能自动识别并标注 wedge 形态也很好
+- [ ] 在 TradingView 上写一个指标/脚本，按照 Al Brooks 对 gaps 的定义自动标注图表上的缺口（来源：Video 10A - Buying and Selling Pressure，学习该课程时想到）
 
 ## 已完成
 
